@@ -2,5 +2,5 @@
 goto site
 
 :site
-start site.html
+start http://192.168.2.213:80
 exit
